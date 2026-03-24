@@ -9,14 +9,14 @@
     <link>https://smartagent.ru</link>
     <description>Статьи, аналитика и гайды для риэлторов и агентств недвижимости</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 24 Mar 2026 07:51:03 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 08:20:23 -0000</lastBuildDate>
     <image><url>https://smartagent.ru/favicon.ico</url><title>SmartAgent — CRM для риэлторов</title><link>https://smartagent.ru</link></image>
     <item>
-      <title><![CDATA[Ключевая ставка 2026: что ждёт рынок недвижимости]]></title>
-      <link>https://smartagent.ru/stati/analitika/klyuchevaya-stavka-2026</link>
-      <guid isPermaLink="true">https://smartagent.ru/stati/analitika/klyuchevaya-stavka-2026</guid>
+      <title><![CDATA[Ключевая ставка 2026 и недвижимость]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/klyuchevaya-stavka-2026-i-nedvizhimost</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/klyuchevaya-stavka-2026-i-nedvizhimost</guid>
       <pubDate>Tue, 24 Mar 2026 00:00:00 -0000</pubDate>
-      <description><![CDATA[Разбираем, как высокая ключевая ставка влияет на ипотеку, спрос и работу риэлторов — и что делать агенту в текущих условиях.]]></description>
+      <description><![CDATA[ЦБ снизил ставку до 15% — седьмое снижение подряд. Разбираем влияние на ипотеку, цены и спрос. Прогноз на конец 2026 и план действий для риэлтора.]]></description>
       <category>format-article</category>
       <dc:creator>SmartAgent</dc:creator>
       <content:encoded><![CDATA[
@@ -158,6 +158,8 @@
 </p>
 <p><em>3 дня бесплатно, без привязки карты</em></p>
 ]]></content:encoded>
+      <enclosure url="https://smartagent-ru.github.io/dzen-feed/img-stavka-2026.png" length="0" type="image/jpeg" />
+      <media:content url="https://smartagent-ru.github.io/dzen-feed/img-stavka-2026.png" medium="image" />
     </item>
   </channel>
 </rss>
