@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:media="http://search.yahoo.com/mrss/"
-  xmlns:yandex="http://news.yandex.ru">
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>SmartAgent — CRM для риэлторов</title>
     <link>https://smartagent.ru</link>
     <description>Статьи, аналитика и гайды для риэлторов и агентств недвижимости</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 24 Mar 2026 09:46:52 -0000</lastBuildDate>
-    <image><url>https://smartagent.ru/favicon.ico</url><title>SmartAgent — CRM для риэлторов</title><link>https://smartagent.ru</link></image>
+    <lastBuildDate>Wed, 25 Mar 2026 15:39:03 -0000</lastBuildDate>
     <item>
       <title><![CDATA[Ключевая ставка 2026 и недвижимость]]></title>
       <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/klyuchevaya-stavka-2026-i-nedvizhimost</link>
@@ -18,7 +14,6 @@
       <pubDate>Tue, 24 Mar 2026 00:00:00 -0000</pubDate>
       <description><![CDATA[ЦБ снизил ставку до 15% — седьмое снижение подряд. Разбираем влияние на ипотеку, цены и спрос. Прогноз на конец 2026 и план действий для риэлтора.]]></description>
       <category>format-article</category>
-      <dc:creator>SmartAgent</dc:creator>
       <content:encoded><![CDATA[
 <p><strong>Ключевая ставка 2026 и недвижимость</strong> — главная тема, которая определяет настроение рынка и стратегию каждого риэлтора. 20 марта 2026 года ЦБ РФ снизил ключевую ставку до 15% — это уже седьмое снижение подряд с пикового значения 21%. Ипотечные ставки медленно ползут вниз, покупатели начинают оживать, а значит — вам пора готовиться к росту спроса. В этой статье разбираем, что происходит, чего ждать к концу года и как риэлтору использовать текущую ситуацию для роста сделок.</p>
 
@@ -131,12 +126,715 @@
 <p>Главное — подготовка к росту спроса. Наращивайте базу объектов и клиентов, настраивайте CRM и воронку, изучайте ипотечные программы. Когда ставка пересечёт порог 14.5%, выиграет тот, кто уже готов обрабатывать поток обращений. Актуальные <a href="https://smartagent.ru/uslugi-ceny">тарифы и возможности SmartAgent</a> помогут выбрать подходящий набор инструментов.</p>
 
 <p>
-<a href="https://smartagent.ru/?type=auth&amp;utm_content=statia_klyuchevaya-stavka-2026">Попробовать бесплатно</a>
+<a href="https://smartagent.ru/?type=auth">Попробовать бесплатно</a>
 </p>
 <p><em>3 дня бесплатно, без привязки карты</em></p>
 ]]></content:encoded>
-      <enclosure url="https://smartagent-ru.github.io/dzen-feed/img-stavka-2026.png" length="0" type="image/png" />
-      <media:content url="https://smartagent-ru.github.io/dzen-feed/img-stavka-2026.png" medium="image" />
+      <enclosure url="https://smartagent-ru.github.io/dzen-feed/img-stavka-2026.png" type="image/png" />
+    </item>
+    <item>
+      <title><![CDATA[Ипотека на частные дома 2026]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/cb-uzhestochaet-vydachu-ipoteki-na-chastnye-doma-s-2026-goda-chto-delat-rieltoram-i-zastrojshhikam</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/cb-uzhestochaet-vydachu-ipoteki-na-chastnye-doma-s-2026-goda-chto-delat-rieltoram-i-zastrojshhikam</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[ЦБ ужесточает выдачу ипотеки на частные дома с 2026 года. Что изменится для риэлторов и застройщиков — аналитика и рекомендации.]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<p><span>С 1 квартала 2026 года Банк России вводит новые правила игры на рынке ипотеки. Под ограничения попадают кредиты под залог частных домов и объектов ИЖС &mdash; именно те сегменты, где уровень просрочки втрое превышает средние показатели по рынку.</span></p>
+<div></div>
+<p><figure><img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_690c47ebdeaeb1424e193976_690c4835bf55b00424e75171/scale_1200" width="796" height="448"></figure></p>
+<h3><span>Почему регулятор решил действовать жестко?</span></h3>
+<ul>
+<li>
+<div><span>📉&nbsp;</span><span><b>Рост долговой нагрузки</b></span><span>&nbsp;заемщиков достиг критических значений</span></div>
+</li>
+<li>
+<div><span>🏚️&nbsp;</span><span><b>Просрочка по ипотеке на частные дома</b></span><span>&nbsp;стабильно превышает среднерыночные показатели</span></div>
+</li>
+<li>
+<div><span>🛡️&nbsp;</span><span><b>Защита финансовой системы</b></span><span>&nbsp;&mdash; ЦБ заранее создает буфер против потенциального кризиса</span></div>
+</li>
+</ul>
+<h3><span>Что меняется для разных типов недвижимости?</span></h3>
+<div>
+<div><figure><img src="https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_690c47ebdeaeb1424e193976_690c480c3efb9e55cc927e2b/scale_1200" alt="-2" width="791" height="203"></figure></div>
+</div>
+<p><span></span></p>
+<h3><span>Уже есть последствия:</span></h3>
+<p><span>К сентябрю 2025 года банки сформировали дополнительный буфер капитала 1,6% от ипотечного портфеля. Это значит:</span></p>
+<ul>
+<li>
+<div><span>✅ Финансовая система готовится к изменениям</span></div>
+</li>
+<li>
+<div><span>⚠️ Банки уже закладывают риски в свои продукты</span></div>
+</li>
+</ul>
+<h3><span>Что делать риелторам уже сейчас?</span></h3>
+<ol start="1">
+<li>
+<div><span><b>Пересмотреть портфель объектов</b></span><span>&nbsp;&mdash; увеличивать долю квартир в МКД</span></div>
+</li>
+<li>
+<div><span><b>Информировать клиентов</b></span><span>&nbsp;о грядущих изменениях в ипотечных программах</span></div>
+</li>
+<li>
+<div><span><b>Предлагать альтернативы</b></span><span>&nbsp;&mdash; рассрочка от застройщика, trade-in, субсидированные программы</span></div>
+</li>
+<li>
+<div><span><b>Использовать аналитические инструменты</b></span><span>&nbsp;&mdash; например, SmartAgent помогает:<br>Анализировать ценовую динамику до вступления правил в силу<br>Находить объекты с оптимальным соотношением цена/качество<br>Автоматически корректировать стратегии продвижения</span></div>
+</li>
+</ol>
+<p><span>💡&nbsp;</span><span><i>Прогноз: уже в 2025 году мы увидим рост спроса на квартиры в МКД &mdash; умные риелторы готовятся к этому заранее.</i></span><span></span></p>
+<p><span>📊&nbsp;</span><span><b>Полную аналитику по вашему региону + прогноз изменения цен можно получить в SmartAgent</b></span><span></span></p>
+<p><span>👉&nbsp;</span><span><i>Протестируйте SmartAgent бесплатно и узнайте, как не упустить ни одного лида.</i></span><span></span></p>
+<p><span>SmartAgent дарит&nbsp;</span><span><b>7 дней бесплатного доступа</b></span><span>&nbsp;для всех новых пользователей.</span></p>
+<p><span>Пока другие разбираются,&nbsp;</span><span><b>вы уже работаете по-новому</b></span><span>.</span></p>
+<p><span>📲&nbsp;</span><a rel="noopener" target="_blank" href="https://smartagent.ru/"><b>АКТИВИРОВАТЬ БЕСПЛАТНЫЙ ДОСТУП</b></a></p>
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/stati/-cheklist-dlya-rieltora-kak-oformit-zaklyuchenie-o-prigodnosti-zhilya-pri-ispolzovanii-materinskogo-kapitala">Маткапитал: чек-лист для риэлтора</a></li>
+<li><a href="https://smartagent.ru/stati/baza-sobstvennikov">База собственников</a> — 665 000+ объектов с прямыми контактами</li>
+<li><a href="https://smartagent.ru/stati/crm-dlya-agentstva-nedvizhimosti">CRM для агентства недвижимости</a></li>
+<li><a href="https://smartagent.ru/stati/boli-pokupatelej-nedvizhimosti-i-kak-rieltoru-ix-zakryt-10-reshenij">Боли покупателей недвижимости</a> — как закрыть возражения по ипотеке</li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title><![CDATA[Ключевая ставка 21%: влияние на рынок]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/-klyuchevaya-stavka-21-chto-eto-znachit-dlya-rieltorov</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/-klyuchevaya-stavka-21-chto-eto-znachit-dlya-rieltorov</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[Ключевая ставка 21%: как это влияет на ипотеку и рынок недвижимости. Аналитика и рекомендации для риэлторов.]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<p><span>Центробанк, по мнению экспертов, 25 апреля&nbsp;</span><span><b>сохранит ключевую ставку на уровне 21%</b></span><span>. Разберёмся, как это повлияет на рынок недвижимости.</span></p>
+<div>
+<div>
+<div aria-label="">
+<div><figure><img src="https://smartagent.ru/images/page/1302/85a3ec6c.jpg" width="754" height="424"></figure></div>
+</div>
+</div>
+</div>
+<p><span><b>Почему ставка остаётся высокой?</b></span></p>
+<p><span>✔️ Инфляция держится около 10% &mdash; это выше цели в 4%.</span></p>
+<p><span>✔️ Торговые войны и санкции продолжают давить на экономику.</span></p>
+<p><span>✔️ Курс рубля хоть и укрепился, но остаётся нестабильным из-за внешних факторов.</span></p>
+<p><span><b>Что это значит для рынка недвижимости?</b></span></p>
+<p><span>🔴 Ипотека становится дорогой. Многие покупатели отказываются от сделок, так как условия кредитования невыгодны.</span></p>
+<p><span>🔴 Инвесторы осторожничают. Высокие ставки снижают интерес к покупкам для сдачи в аренду.</span></p>
+<p><span>🔴 Снижение деловой активности. Продажи замедляются, рынок становится более конкурентным.</span></p>
+<p><span><b>Как риэлторам адаптироваться?</b></span></p>
+<p><span>1️⃣ Сфокусируйтесь на клиентах с наличными средствами &mdash; их интересы сейчас в приоритете.</span></p>
+<p><span>2️⃣ Предлагайте альтернативы дорогой ипотеке: совместные покупки, трейд-ин, аренду с правом выкупа.</span></p>
+<p><span>3️⃣ Готовьте аналитику и прогнозы для покупателей, чтобы помочь им принять взвешенные решения.</span></p>
+<p><span><b>📊 История ключевой ставки ЦБ РФ с 2013 года:</b></span><span></span></p>
+<p><span>13.09.2013: Введение ключевой ставки &mdash; 5.5%</span></p>
+<p><span>16.12.2014: Повышение до 17% из-за валютного кризиса</span></p>
+<p><span>2015&ndash;2017: Постепенное снижение до 7.25%</span></p>
+<p><span>2018&ndash;2019: Стабилизация в диапазоне 6.25&ndash;7.75%</span></p>
+<p><span>2020: Минимум 4.25% в условиях пандемии</span></p>
+<p><span>28.02.2022: Резкое повышение до 20% на фоне геополитических событий</span></p>
+<p><span>2023&ndash;2024: Колебания между 7.5% и 9.5%</span></p>
+<p><span>25.10.2024: Повышение до 21% &mdash; максимум с 2003 года</span></p>
+<p><span><b>Следите за изменениями и адаптируйте свои стратегии в соответствии с текущей экономической ситуацией.</b></span></p>
+<p><span><b>СмартАгент</b></span><span>&nbsp;&ndash; это не только инструменты для эффективной работы, но и ваш партнёр, который помогает зарабатывать больше.</span></p>
+<p><span>Используйте современные инструменты для оптимизации работы. Например, сервисы, которые объединяют базы недвижимости, CRM, аналитику и телефонию, сэкономят десятки часов работы. Присоединяйтесь к&nbsp;</span><a rel="noopener" target="_blank" href="https://smartagent.ru/">SmartAgent<span>&nbsp;</span></a><span>и получите бесплатный пробный период для оценки всех возможностей!</span></p>
+<h2><a rel="noopener" target="_blank" href="https://smartagent.ru/">Попробовать</a></h2>
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/stati/baza-sobstvennikov">База собственников</a> — находите объекты быстрее конкурентов</li>
+<li><a href="https://smartagent.ru/stati/crm-dlya-agentstva-nedvizhimosti">CRM для агентства недвижимости</a> — автоматизация работы в кризис</li>
+<li><a href="https://smartagent.ru/stati/top5-metodov-prodazh-v-nedvizhimosti">ТОП-5 методов продаж в недвижимости</a></li>
+<li><a href="https://smartagent.ru/stati/boli-pokupatelej-nedvizhimosti-i-kak-rieltoru-ix-zakryt-10-reshenij">Боли покупателей недвижимости</a> — как закрыть возражения в кризис</li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+      <enclosure url="https://smartagent.ru/images/page/1302/85a3ec6c.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Ликвидность новостроек снизилась]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/za-pyat-let-likvidnost-novostroek-snizilas-v-15-raza</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/za-pyat-let-likvidnost-novostroek-snizilas-v-15-raza</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[За 5 лет ликвидность новостроек упала в 1,5 раза. Анализ рынка недвижимости и что это значит для риэлторов.]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<p><span>За последние пять лет российский рынок недвижимости пережил значительные изменения. Согласно актуальным исследованиям, доля квартир, проданных в новостройках, уменьшилась на 1,5 раза по сравнению с показателями предыдущих лет.</span></p>
+<div>
+<div>
+<div aria-label="">
+<div><figure><img src="https://sun9-34.userapi.com/impg/7CmDK9lARg_SsAvY7pKnInSIZbpc9KaFmDiUYQ/sgXPZW9nmHE.jpg?size=1920x1080&amp;quality=95&amp;sign=49b906acd64364e22587c8f7575cc757&amp;type=album" alt="За пять лет ликвидность новостроек снизилась в 1,5 раза, изображение №1" width="809" height="455"></figure></div>
+</div>
+</div>
+</div>
+<p><span><b>Текущая ситуация на рынке</b></span><span><br><br>Эксперты отмечают, что сегодня рынок недвижимости сталкивается с множеством вызовов. Увеличение объема предложения, рост цен на стройматериалы, а также изменения покупательской способности населения &ndash; все это влияет на динамику продаж новостроек.</span></p>
+<p><span><b>Факторы, влияющие на спрос</b></span><span><br><br>Одной из ключевых причин снижения распроданности стало увеличение числа новых проектов. Девелоперы активно вводят на рынок большое количество объектов, создавая избыточное предложение. Кроме того, рост цен на жилье в последние годы также сдерживает спрос, делая покупку новостроек менее доступной для значительной части населения.</span></p>
+<p><span><b>Изменение поведения покупателей</b></span><span><br><br>Современные покупатели стали более требовательными и осознанными в своем выборе. Сегодня они оценивают не только стоимость жилья, но и его качество, расположение, а также инфраструктуру района. Всё это приводит к увеличению сроков реализации объектов.</span></p>
+<p><span><b>Прогнозы экспертов</b></span><span><br><br>Несмотря на сложившуюся ситуацию, специалисты предполагают, что рынок может стабилизироваться благодаря госпрограммам поддержки ипотеки и улучшению экономической ситуации. Также возможен рост популярности формата &laquo;умного&raquo; жилья, которое отвечает современным запросам клиентов.</span></p>
+<p><span>По мнению экспертов акселератора недвижимости&nbsp;</span><span><b>SmartAgent</b></span><span>, развитие технологий и цифровых инструментов может стать ключевым фактором для преодоления текущих трудностей на рынке. Аналитические системы, автоматизация маркетинга и улучшение взаимодействия с клиентами помогут девелоперам быстрее находить покупателей.</span></p>
+<p><span>SmartAgent также отмечает, что использование современных платформ для управления заявками и объектами недвижимости позволяет существенно сократить сроки реализации жилья, даже в условиях высокой конкуренции. Такие инструменты помогают не только анализировать рынок, но и адаптироваться к новым вызовам.</span></p>
+<p><span>Попробуй SmartAgent уже сегодня &mdash; и увидишь разницу.</span></p>
+<p><span>Используйте современные инструменты для оптимизации работы. Например, сервисы, которые объединяют базы недвижимости, CRM, аналитику и телефонию, сэкономят десятки часов работы. Присоединяйтесь к&nbsp;</span><a rel="noopener" target="_blank" href="https://smartagent.ru/">SmartAgent<span>&nbsp;</span></a><span>и получите бесплатный пробный период для оценки всех возможностей!</span></p>
+<h2><a rel="noopener" target="_blank" href="https://smartagent.ru/">Попробовать</a></h2>
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/stati/baza-sobstvennikov">База собственников</a> — найдите объекты из 100+ источников с прямыми контактами</li>
+<li><a href="https://smartagent.ru/stati/crm-dlya-agentstva-nedvizhimosti">CRM для агентства недвижимости</a> — управляйте объектами и сделками</li>
+<li><a href="https://smartagent.ru/baza-nedvizhimosti-moskva">База недвижимости Москвы</a> — актуальные объекты столичного рынка</li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title><![CDATA[Ипотека падает: обзор для риэлторов]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/ipoteka-padaet-chto-vazhno-znat-rieltoram-na-etoj-nedele</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/ipoteka-padaet-chto-vazhno-znat-rieltoram-na-etoj-nedele</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[Ипотечные ставки снижаются — что это значит для рынка недвижимости? Обзор ключевых изменений и рекомендации для риэлторов.]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<p><span><b><figure><img src="https://smartagent.ru/images/page/1252/a350907d.jpg" width="849" height="849"></figure></b></span></p>
+<p><span><b>🏦 Банки, ипотека и рынок:</b></span><span></span></p>
+<p><span>С 1 июля в России изменятся правила выдачи ипотеки.</span></p>
+<p><span><b>Расширение семейной ипотеки:</b></span><span>&nbsp;решение Минфина о расширении семейной ипотеки на города, где строится не более 2-х МКД.</span></p>
+<p><span><b>Сельская ипотека:</b></span><span>&nbsp;Банк "Кубань Кредит" открыл приём заявок, но позже программу приостановили в ожидании новых условий.</span></p>
+<p><span><b>Самоосмотр недвижимости:&nbsp;</b></span><span>ВТБ запустил услугу оценки загородной недвижимости через приложение.</span></p>
+<p><span>Банки:&nbsp;</span><span><b>МКБ, Альфа-Банк, СНГБ</b></span><span>&nbsp;снижают ставки по рыночной ипотеке;&nbsp;</span><span><b>Газпромбанк</b></span><span>&nbsp;запретил ИП брать кредиты под залог с доходами от предпринимательской деятельности (по декларации),&nbsp;</span><span><b>Банк Дом РФ</b></span><span>&nbsp;вернул справку по форме банка для подтверждения дохода.</span></p>
+<p><span><b>🌐 Глобальные новости:</b></span><span></span></p>
+<p><span><b>Арендный рынок под контролем</b></span><span>: В Госдуме обсуждается законопроект об ограничении роста арендной платы.</span></p>
+<p><span><b>Дальневосточный гектар:</b></span><span>&nbsp;Появилась идея расширить программу на всю Россию, кроме Московской и Петербургской агломераций.</span></p>
+<p><span><b>Ипотека для многодетных</b></span><span>: Планируется снижение минимального первоначального взноса до 10%.</span></p>
+<p><span>Следите за обновлениями SmartAgent, чтобы быть в курсе важных изменений в недвижимости!</span></p>
+<p><a rel="noopener nofollow" target="_blank" href="https://t.me/+ZJQ2I7R0JPs2NzA6">SmartAgent | агрегатор недвижимости</a></p>
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/stati/crm-dlya-agentstva-nedvizhimosti">CRM для агентства недвижимости</a> — автоматизация работы с клиентами и сделками</li>
+<li><a href="https://smartagent.ru/stati/baza-sobstvennikov">База собственников</a> — 665 000+ объектов из 100+ источников с прямыми контактами</li>
+<li><a href="https://smartagent.ru/stati/12-sposobov-najti-klientov-dlya-rieltora-prakticheskij-cheklist">12 способов найти клиентов для риэлтора</a> — практический чеклист</li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+      <enclosure url="https://smartagent.ru/images/page/1252/a350907d.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Новостройки Москвы: спад предложения]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/v-aprele-predlozhenie-v-novostrojkax-massovogo-segmenta-moskvy-snizilos-na-11</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/v-aprele-predlozhenie-v-novostrojkax-massovogo-segmenta-moskvy-snizilos-na-11</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[Предложение в новостройках массового сегмента Москвы снизилось на 11% в апреле. Аналитика рынка для риэлторов.]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<p><figure><img src="https://smartagent.ru/images/page/1314/c3617a1b.jpg" width="732" height="732"></figure></p>
+<p>⚠️&nbsp;<b>В апреле предложение в новостройках массового сегмента Москвы снизилось на 11%</b></p>
+<p>Спрос на новостройки в Москве экономкласса только за март <b>рухнул на</b> <b>20%.</b> Новых проектов нет, предложение сократилось на, а цены выросли на <b>4,5%</b> - квадратный метр уже <b>340 тыс. рублей. </b>При этом,<span>&nbsp; </span>наблюдается обратная тенденция <b>в элитном сегменте: рост продаж</b> с начала года более 5-7%.</p>
+<p><b>❗️ЦБ в четвертый раз подряд сохранил ключевую ставку</b></p>
+<p><b></b></p>
+<p><i>Поговорим про банки:</i></p>
+<p><b>Снизили ставки</b> по рыночной ипотеке: МТС Банк, ТКБ, <b>Совкомбанк.&nbsp;</b></p>
+<p><b>Ак Барс</b> снизил ставки по кредитам под залог.</p>
+<p><b>ВТБ</b> отменил надбавку к ставке за неподтвержденных доход.</p>
+<p>ИТ-ипотека: <b>ВБРР</b> и Банк Санкт-Петербург возобновили IT-ипотеку, <b>Севергазбанк</b> снизил ПВ по Ит-ипотеке.</p>
+<p><b>Уралсиб Банк</b> повысил ставки по рыночной ипотеке.</p>
+<p><b>МКБ</b> запустил ИЖС в госпрограммах.</p>
+
+<p><i>Иные новости:&nbsp;</i></p>
+<p>👉🏻 <b>Цены на аренду квартир в Москве начали расти после семимесячного падения.</b></p>
+<p>В апреле сменился тренд на рынке долгосрочной аренды жилья. Ставки аренды за месяц выросли на 2,3% после продолжительного падения цен в течение семи месяцев.</p>
+<p>Следите за обновлениями SmartAgent, чтобы быть в курсе важных изменений в недвижимости!</p>
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/baza-nedvizhimosti-moskva">База недвижимости Москвы</a> — актуальные объекты столичного рынка</li>
+<li><a href="https://smartagent.ru/stati/baza-sobstvennikov">База собственников</a> — 665 000+ объектов из 100+ источников</li>
+<li><a href="https://smartagent.ru/stati/crm-dlya-agentstva-nedvizhimosti">CRM для агентства недвижимости</a> — управляйте сделками эффективно</li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+      <enclosure url="https://smartagent.ru/images/page/1314/c3617a1b.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Квартиры с уникальным ID в новостройках]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/kvartiry-s-unikalnym-id-novaya-era-prozrachnosti-na-rynke-novostroek</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/kvartiry-s-unikalnym-id-novaya-era-prozrachnosti-na-rynke-novostroek</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[ДОМ РФ вводит уникальные ID для квартир в новостройках. Как это изменит рынок и работу риэлторов.]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<p>ДОМ РФ представил революционное решение для покупателей жилья в новостройках &mdash; уникальные идентификаторы для квартир, строящихся по договорам долевого участия (ДДУ). Эти идентификаторы действуют как цифровые паспорта для каждого объекта &mdash; будь то квартира, апартаменты, кладовая или машино-место, &mdash; аналог кадастровых номеров для готовой недвижимости.</p>
+<p><figure><img src="https://smartagent.ru/images/page/1332/a746e745.jpg" width="744" height="744"></figure></p>
+<p><b>🔍 Что это даёт покупателю?</b></p>
+
+<p>Теперь с помощью уникального ID:</p>
+
+<p>1️⃣ Легко проверяются характеристики объекта через портал;</p>
+<p>Условия договора можно сверить с официальными данными;</p>
+<p>2️⃣Цена объекта отслеживается в динамике, даже если он перепродаётся по переуступке;</p>
+<p>3️⃣Проверка достоверности информации помогает избежать мошенничества.</p>
+
+<p><b>💡 Новая степень автоматизации</b></p>
+
+<p>Уникальные ID уже присвоены 94% строящихся объектов. Эта мера упрощает регистрацию ДДУ, облегчает заполнение данных в ЕГРН и упрощает проверку прав на конкретную квартиру.</p>
+
+<p><b>📊 Преимущества для рынка</b></p>
+
+<p>Сокращение документооборота при проверке объектов;</p>
+<p>Повышение точности статистики по рынку недвижимости;</p>
+<p>Ускорение сделок за счёт автоматизированного процесса.</p>
+
+<p><b>📣 Новый стандарт доверия</b></p>
+
+<p>Внедрение уникальных идентификаторов &mdash; это не только шаг к удобству, но и инструмент для повышения прозрачности и доверия к рынку долевого строительства. Эксперты отмечают, что новая система делает рынок недвижимости более безопасным и предсказуемым для всех участников.</p>
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/stati/baza-sobstvennikov">База собственников</a> — 665 000+ объектов с прямыми контактами владельцев</li>
+<li><a href="https://smartagent.ru/stati/crm-dlya-agentstva-nedvizhimosti">CRM для агентства недвижимости</a> — управляйте объектами и сделками</li>
+<li><a href="https://smartagent.ru/baza-nedvizhimosti-moskva">База недвижимости Москвы</a> — актуальные объекты</li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+      <enclosure url="https://smartagent.ru/images/page/1332/a746e745.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Как удвоить лиды и закрывать сделки]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/sekretnyj-algoritm-kak-rieltoru-udvoit-lidy-i-zakryvat-sdelki-bystree</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/sekretnyj-algoritm-kak-rieltoru-udvoit-lidy-i-zakryvat-sdelki-bystree</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[Секретный алгоритм для риэлторов: как удвоить лиды и закрывать сделки быстрее. Запись вебинара SmartAgent.]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<p><spanArial',sans-serif;">Работа с клиентами и лидами &mdash; это сердце профессии риэлтора. Но как построить чёткую систему, чтобы не упускать сделки и эффективно работать с дублями? Всё это вы узнаете на нашем вебинаре!<o:p></o:p></span></p>
+<p><figure><img src="https://smartagent.ru/images/page/1258/a3800db5.jpg" width="852" height="852"></figure></p>
+<p>Запись вебинара:</p>
+
+<p><a href="https://rutube.ru/video/18cda4d5a716cbf28acc311e29637560/"><b>Смореть на рутуб</b></a></p>
+<p><a href="https://youtu.be/9MMJqtKuYJI"><b>Смотреть на ютуб</b></a></p>
+<p><a href="https://vk.com/video-96420949_456239097"><b>Смотреть в вк</b></a></p>
+
+<p><b><spanArial',sans-serif;">Программа вебинара:<o:p></o:p></span></b></p>
+<p><strong><spanArial',sans-serif;">1</span><spanApple Color Emoji'; mso-bidi-font-family: 'Apple Color Emoji';">️</span><span lang="RU"Cambria',serif; mso-bidi-font-family: 'Apple Color Emoji'; mso-ansi-language: RU;">. </span></strong><spanArial',sans-serif;"><strong>Работа с клиентами: </strong>Как правильно вести клиента по воронке сделок и автоматизировать взаимодействие.<o:p></o:p></span></p>
+<p><strong><spanArial',sans-serif;">2</span><spanApple Color Emoji'; mso-bidi-font-family: 'Apple Color Emoji';">️</span><span lang="RU"Cambria',serif; mso-bidi-font-family: 'Apple Color Emoji'; mso-ansi-language: RU;">. </span></strong><spanArial',sans-serif;"><strong>Лиды под контролем:</strong> Откуда приходят и как настроить автоподбор объектов для ваших клиентов, как эффективно отслеживать и конвертировать лиды.<o:p></o:p></span></p>
+<p><strong><spanArial',sans-serif;">3</span><spanApple Color Emoji'; mso-bidi-font-family: 'Apple Color Emoji';">️</span><span lang="RU"Cambria',serif; mso-bidi-font-family: 'Apple Color Emoji'; mso-ansi-language: RU;">. </span></strong><spanArial',sans-serif;"><strong>Оптимизация дублей:</strong> что это такое и почему важно учитывать дубли, как работать с ними эффективно.<o:p></o:p></span></p>
+<p><b><spanArial',sans-serif;">Для кого этот вебинар:</span></b><spanArial',sans-serif;"><o:p></o:p></span></p>
+<p><spanArial',sans-serif;">Для риэлторов, которые хотят систематизировать работу с клиентами и повысить конверсию.<o:p></o:p></span></p>
+<p><spanArial',sans-serif;">Для тех, кто стремится автоматизировать рутину и сосредоточиться на важных задачах.<o:p></o:p></span></p>
+<p><spanArial',sans-serif;">Для профессионалов, желающих прокачать навыки управления лидами и клиентами.<o:p></o:p></span></p>
+<p><b><spanApple Color Emoji'; mso-bidi-font-family: 'Apple Color Emoji';">🎯</span></b><b><spanArial',sans-serif;"> Почему это важно:</span></b><spanArial',sans-serif;"><o:p></o:p></span></p>
+<p><spanArial',sans-serif;">Каждый потерянный лид &mdash; это упущенный доход. Узнайте, как избежать ошибок и добиться максимального результата!<o:p></o:p></span></p>
+<p><spanApple Color Emoji'; mso-bidi-font-family: 'Apple Color Emoji';">🚀</span><spanArial',sans-serif;"> Ждём вас на вебинаре!</span></p>
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/stati/top5-metodov-prodazh-v-nedvizhimosti">ТОП-5 методов продаж в недвижимости</a> — техники, которые работают</li>
+<li><a href="https://smartagent.ru/stati/crm-dlya-agentstva-nedvizhimosti">CRM для агентства недвижимости</a> — управляйте лидами и воронкой продаж</li>
+<li><a href="https://smartagent.ru/stati/gajd-dlya-rieltora-xolodnye-zvonki-kotorye-privodyat-k-sdelkam">Холодные звонки, которые приводят к сделкам</a> — гайд для риэлтора</li>
+<li><a href="https://smartagent.ru/stati/12-sposobov-najti-klientov-dlya-rieltora-prakticheskij-cheklist">12 способов найти клиентов для риэлтора</a></li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+      <enclosure url="https://smartagent.ru/images/page/1258/a3800db5.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Автоматизация: рост прибыли на 30%]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/kejs-kak-rieltor-uvelichil-pribyl-na-30-s-pomoshhyu-avtomatizacii-raboty</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/kejs-kak-rieltor-uvelichil-pribyl-na-30-s-pomoshhyu-avtomatizacii-raboty</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[Кейс: как риэлтор увеличил прибыль на 30% с помощью автоматизации SmartAgent. Реальный опыт и конкретные результаты.]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<p>Секрет успеха риэлторов: автоматизация, которая приносит деньги! Узнайте, как один простой инструмент помог нашему клиенту за месяц закрыть на 30% больше сделок и увеличить доход.</p>
+<p><figure><img src="https://smartagent.ru/images/page/1266/b189da90.jpg" width="838" height="838"></figure></p>
+<p>Приглашенный эксперт:&nbsp;
+Юлия Губина&nbsp;- руководитель отдела продаж SmartAgent.
+&nbsp;
+🚀&nbsp;Программа вебинара:&nbsp;
+
+
+Как получать уведомления о новых объектах в Telegram.&nbsp;
+
+
+Как подключить Турбо-мониторинг.&nbsp;
+
+
+Как управлять поисками через Telegram.&nbsp;
+
+
+Как использовать Telegram-бота вместо сайта для поиска недвижимости.
+
+
+Каждая упущенная сделка &mdash; это упущенный доход. Автоматизация освобождает ваше время для главного &mdash; закрытия сделок.</p>
+<p>ЗАПИСЬ ВЕБИНАРА</p>
+
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/stati/crm-dlya-agentstva-nedvizhimosti">CRM для агентства недвижимости</a> — автоматизация работы с клиентами и объектами</li>
+<li><a href="https://smartagent.ru/stati/baza-sobstvennikov">База собственников</a> — 665 000+ объектов из 100+ источников</li>
+<li><a href="https://smartagent.ru/rasshirenie-baza-sobstvennikov">SmartVision — расширение для поиска собственников</a> на Авито и ЦИАН</li>
+<li><a href="https://smartagent.ru/uslugi-ceny">Тарифы и цены SmartAgent</a></li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+      <enclosure url="https://smartagent.ru/images/page/1266/b189da90.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Аналитика и отчётность для риэлторов]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/upravlenie-komandoj-analitika-i-otchetnost-dlya-rieltorov-povyste-effektivnost-v-dva-raza-s-smartagent</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/upravlenie-komandoj-analitika-i-otchetnost-dlya-rieltorov-povyste-effektivnost-v-dva-raza-s-smartagent</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[Управление командой, аналитика и отчётность в SmartAgent. Повысьте эффективность агентства недвижимости в два раза!]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<p><figure><img src="https://smartagent.ru/images/page/1346/6f6bf603.jpg" width="726" height="726"></figure></p>
+<p><b>📅 Когда: Завтра, 12:00 (по Москве)</b></p>
+<p><b>📍 Где: Онлайн-вебинар&nbsp;</b><a href="https://t.me/+QtjJ8NvZqPswY2Vi"> </a><b><a href="https://t.me/+QtjJ8NvZqPswY2Vi">в телеграм</a>&nbsp;</b></p>
+<p><b>💡 Что вас ждет:</b> Простые и мощные инструменты для оптимизации работы команды и аналитики рынка &ndash; всё за 1 час!</p>
+
+<p>Программа вебинара:</p>
+<p><b>🔑 Управление сотрудниками и доступами:</b></p>
+<ul>
+<li>Роли и полномочия: как делегировать задачи и защитить данные.</li>
+<li>Настройка доступа: ограничения на просмотр контактов собственников.</li>
+<li>Контроль модерации: проверка и одобрение объявлений перед выгрузкой.</li>
+</ul>
+<p><b>📊 Аналитика и отчёты для успеха:</b></p>
+<ul>
+<li>Статистика агентства: оценка активности и продуктивности сотрудников.</li>
+<li>Рыночный анализ: инструменты для оценки стоимости объектов и конкурентной среды.</li>
+<li>Долгосрочные прогнозы: использование исторических данных для принятия решений.</li>
+</ul>
+<p><b>🎯 Практические кейсы:</b></p>
+<ul>
+<li>Как внедрить аналитические инструменты в ежедневную работу.</li>
+<li>Увеличение конверсии за счёт грамотной настройки доступа.</li>
+</ul>
+
+<p><b>🗣 Вопросы и ответы:</b></p>
+<p>Задайте свои вопросы экспертам SmartAgent.</p>
+<p><b>🎁 Бонусы для участников:</b></p>
+<p>Доступ к записи вебинара.</p>
+<p>Розыгрыш тарифа SmartAgent.</p>
+
+<p><b>Не упустите шанс сделать свою работу проще и эффективнее с передовыми решениями SmartAgent! </b>🎯</p>
+<p><a href="https://telemost.yandex.ru/j/00682872800770"><b>ПОСТАВИТЬ УВЕДОМЛЕНИЕ</b></a></p>
+<p><strong><a href="https://t.me/+QtjJ8NvZqPswY2Vi">ПОДПИСАТЬСЯ НА КАНАЛ</a></strong></p>
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/stati/crm-dlya-agentstva-nedvizhimosti">CRM для агентства недвижимости</a> — полная автоматизация работы</li>
+<li><a href="https://smartagent.ru/stati/pomoshhniki-professionalnogo-rieltora-kakie-oni-i-dlya-chego-nuzhny">Помощники профессионального риэлтора</a> — какие они и зачем нужны</li>
+<li><a href="https://smartagent.ru/stati/bol-stazhyora-pochemu-99-novichkov-bystro-vygorayut-i-uvolnyayutsya-iz-agentstv-nedvizhimosti">Почему новички выгорают в агентствах</a></li>
+<li><a href="https://smartagent.ru/uslugi-ceny">Тарифы и цены SmartAgent</a></li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+      <enclosure url="https://smartagent.ru/images/page/1346/6f6bf603.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Техники продаж для риэлторов]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/texniki-prodazh-millionerov-dlya-rieltorov-ot-praktika-v-nlp</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/texniki-prodazh-millionerov-dlya-rieltorov-ot-praktika-v-nlp</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[Техники продаж миллионеров для риэлторов от практика в НЛП. Смотрите запись вебинара на YouTube и RuTube!]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<p><b>Вебинар: &laquo;Техники продаж миллионеров для риэлторов от практика в НЛП&raquo;</b></p>
+<p><a href="https://youtu.be/QppxsSNU6_4"><b>СМОТРЕТЬ НА ЮТУБ</b></a></p>
+<p><a href="https://rutube.ru/video/abc8b14368d8f886c2e301a2ec9709d2/"><b>СМОТРЕТЬ НА РУТУБ</b></a></p>
+<p><figure><img src="https://smartagent.ru/images/page/1350/ac3651e8.jpg" width="434" height="434" alt=""></figure></p>
+
+<p>🔥<b> По вашим просьбам &mdash; возвращаем одного из самых ярких спикеров!</b>Прошлый вебинар стал одним из самых популярных на платформе.</p>
+<p>🔑 Хотите продавать не &laquo;как-нибудь&raquo;, а на уровне лучших? <b>Узнать, как мыслят, действуют и закрывают сделки миллионеры?</b> Тогда этот вебинар для вас.</p>
+
+<p><b>О спикере:</b></p>
+<p>Оксана Демидова <span>@NLP_Demidova</span> &mdash; директор АН &ldquo;Striver&rdquo;, НЛП-тренер, бизнес-коуч, эксперт с 15-летним опытом в продажах и более 250 закрытыми сделками.</p>
+
+<p><b>Программа вебинара:</b></p>
+<p>Разберём ключевые техники:</p>
+<p>▪️ SPIN-продажи</p>
+<p>▪️ PPVVC-модель</p>
+<p>▪️ Стратегические продажи Миллера-Хаймана</p>
+<p>▪️ BANT</p>
+<p><b>Что получите:</b></p>
+<p>✔️ Умение выстраивать цикл продаж под клиента и тип сделки</p>
+<p>✔️ Рост конверсии на всех этапах</p>
+<p>✔️ Практические инструменты, которые можно применить сразу</p>
+
+<p>🎁 Участникам &mdash; чек-листы по техникам, запись эфира и секретный розыгрыш.</p>
+<p><b>🚀 Прокачайте свои продажи до уровня ТОП-риэлторов. Присоединяйтесь!</b></p>
+<p><a href="https://t.me/+iT4XMeMo9101NmFi"><b><figure><img src="https://smartagent.ru/images/page/1350/a1ca6f66.png" width="279" height="51" alt=""></figure></b></a></p>
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/stati/top5-metodov-prodazh-v-nedvizhimosti">ТОП-5 методов продаж в недвижимости</a> — проверенные техники</li>
+<li><a href="https://smartagent.ru/stati/gajd-dlya-rieltora-xolodnye-zvonki-kotorye-privodyat-k-sdelkam">Холодные звонки, которые приводят к сделкам</a></li>
+<li><a href="https://smartagent.ru/stati/boli-sobstvennikov-nedvizhimosti-i-kak-ix-zakryt">Боли собственников недвижимости</a> — как их закрыть</li>
+<li><a href="https://smartagent.ru/stati/analitika/kak-gramotno-provesti-pokaz-kvartiry-klientu">Как грамотно провести показ квартиры</a></li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+      <enclosure url="https://smartagent.ru/images/page/1350/ac3651e8.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Права третьих лиц в ЕГРН]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/prinyat-zakon-ob-ukazanii-prav-tretix-lic-na-zhilyo-v-egrn</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/prinyat-zakon-ob-ukazanii-prav-tretix-lic-na-zhilyo-v-egrn</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[Принят закон об обязательном указании прав третьих лиц на жильё в ЕГРН. Что это значит для риэлторов и покупателей недвижимости.]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<p>Госдума приняла закон, вносящий важные изменения в порядок учёта прав на недвижимость. Теперь в Едином государственном реестре недвижимости (ЕГРН) будет указываться информация о правах третьих лиц на жилую недвижимость. Это нововведение направлено на повышение прозрачности сделок и снижение рисков для покупателей.</p>
+<h3><strong>Что изменится?</strong></h3>
+<p>Согласно новому закону:</p>
+<ol>
+<li>В ЕГРН будут вноситься сведения о правах третьих лиц на жилую недвижимость.</li>
+<li>Информация будет включать данные об арендаторах, пользователях и иных лицах, которые имеют законные права на объект.</li>
+<li>Эти изменения распространяются как на объекты на первичном рынке, так и на вторичное жильё.</li>
+</ol>
+<p><figure><img src="https://smartagent.ru/images/page/1168/31d36e66.jpg" width="600" height="600"></figure></p>
+<h3><strong>Цель изменений</strong></h3>
+<p>Основная задача нового закона &mdash; минимизировать риски для участников сделок с недвижимостью. На практике это означает, что перед покупкой жилья потенциальные покупатели смогут получить более полное представление о правах третьих лиц на объект.</p>
+<p>Ранее такие сведения часто были недоступны, что могло приводить к конфликтам после покупки недвижимости. Например, арендаторы или третьи лица, не зарегистрированные в документах, могли предъявлять свои права на жильё.</p>
+<h3><strong>Преимущества для участников рынка</strong></h3>
+<ul>
+<li><strong>Прозрачность сделок:</strong> Покупатели получают доступ к полным данным о недвижимости, что позволяет избежать неприятных сюрпризов.</li>
+<li><strong>Защита прав:</strong> Закон защищает интересы добросовестных покупателей, позволяя заранее узнать о любых обременениях.</li>
+<li><strong>Снижение числа споров:</strong> Уточнение правовых статусов объектов снижает количество конфликтных ситуаций.</li>
+</ul>
+<h3><strong>Что это значит для риэлторов?</strong></h3>
+<p>Для риэлторов это нововведение &mdash; важный шаг к упрощению работы. Теперь специалисты смогут быстрее и надёжнее проверять объекты перед оформлением сделок. Использование аналитических и автоматизированных систем, таких как SmartAgent, станет ещё более актуальным:</p>
+<ul>
+<li>Проверка данных ЕГРН будет занимать меньше времени.</li>
+<li>Вы сможете оперативно уведомлять клиентов о рисках.</li>
+<li>Анализ рынка станет более точным благодаря доступу к полным данным об объектах.</li>
+</ul>
+<h3><strong>Когда вступает в силу?</strong></h3>
+<p>Закон уже принят и вступает в силу с 1 марта 2025 года. Это оставляет время для адаптации участников рынка к новым требованиям.</p>
+<h3><strong>Вывод</strong></h3>
+<p>Нововведение в ЕГРН &mdash; это важный шаг к повышению безопасности сделок с недвижимостью. Указание прав третьих лиц сделает рынок более прозрачным и защитит интересы покупателей. Для риэлторов и участников рынка это открывает новые возможности для профессионального подхода к проверке объектов.</p>
+<p>Следите за новостями и готовьтесь к изменениям с помощью SmartAgent!</p>
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/stati/baza-sobstvennikov">База собственников</a> — 665 000+ объектов с проверенными данными</li>
+<li><a href="https://smartagent.ru/stati/kak-maksimalno-bystro-najti-pryamoj-telefon-sobstvennika">Как быстро найти прямой телефон собственника</a></li>
+<li><a href="https://smartagent.ru/stati/-cheklist-dlya-rieltora-kak-oformit-zaklyuchenie-o-prigodnosti-zhilya-pri-ispolzovanii-materinskogo-kapitala">Чеклист для риэлтора: маткапитал</a></li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+      <enclosure url="https://smartagent.ru/images/page/1168/31d36e66.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Стандарты отделки новостроек]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/zastrojshhikam-razreshili-otstupat-ot-gosudarstvennyx-standartov-otdelochnyx-rabot</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/zastrojshhikam-razreshili-otstupat-ot-gosudarstvennyx-standartov-otdelochnyx-rabot</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[Застройщикам разрешили отступать от государственных стандартов отделочных работ. Что это значит для покупателей и риэлторов.]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<p>Госдума РФ одобрила законопроект, позволяющий застройщикам отходить от установленных государством стандартов отделочных работ. Нововведения вступят в силу 1 марта 2025 года и предоставят девелоперам возможность устанавливать собственные стандарты отделки, при условии, что они не будут ниже минимальных требований, утверждённых государством.</p>
+<p><figure><img src="https://smartagent.ru/images/page/1158/7ff661e6.jpg" width="658" height="658"></figure></p>
+<h3><strong>Основные положения нового закона</strong></h3>
+<p>Согласно новому документу, застройщики смогут включать в договор долевого участия (ДДУ) собственные условия отделки. При этом:</p>
+<ul>
+<li>Установленные застройщиком стандарты не должны быть ниже минимальных требований, утверждённых Минстроем.</li>
+<li>Гарантийный срок на отделочные работы сокращается с трёх лет до одного года.</li>
+</ul>
+<p>Таким образом, нововведение предоставит застройщикам больше свободы в подходе к внутренней отделке, а покупателям &mdash; более прозрачные условия оценки качества.</p>
+<h3><strong>Цели закона</strong></h3>
+<p>Главной задачей изменений депутаты называют борьбу с так называемым &laquo;потребительским терроризмом&raquo;. В последние годы на рынке недвижимости появились компании, специализирующиеся на профессиональной приёмке жилья и подготовке исков против застройщиков. Зачастую такие дела сопровождаются многомесячными судебными разбирательствами и значительными финансовыми потерями для девелоперов.</p>
+<p>&laquo;Потребительский терроризм&raquo; заключался в том, что покупатели оспаривали качество отделки по любым, даже минимальным, причинам. За просрочку устранения недостатков истцы получали значительные компенсации, что приводило к убыткам до 300% стоимости квартиры для застройщиков.</p>
+<h3><strong>Дополнительные меры защиты девелоперов</strong></h3>
+<p>Для снижения финансовой нагрузки на строительные компании ранее был принят ряд поправок в закон &laquo;Об участии в долевом строительстве&raquo;. Эти изменения:</p>
+<ul>
+<li>Устранили возможность двойного взыскания компенсаций по разным нормативным актам. Теперь все претензии к застройщику предъявляются исключительно по одному закону.</li>
+<li>Установили зависимость размера неустойки от ставки рефинансирования Центрального банка.</li>
+<li>Снизили штраф за несоблюдение требований дольщика с 50% до 5% от взысканной суммы.</li>
+</ul>
+<h3><strong>Мнение эксперта SmartAgent</strong></h3>
+<p>Аналитик компании SmartAgent отмечает:</p>
+<blockquote>
+<p>&laquo;Введение собственных стандартов отделки несёт как преимущества, так и риски. С одной стороны, это даст застройщикам больше гибкости в реализации проектов, но с другой &mdash; открывает двери для злоупотреблений. Сокращение гарантийного срока на отделочные работы до одного года вызывает серьёзные опасения: покупатели могут столкнуться с трудностями при выявлении и устранении недостатков, особенно если они проявятся позднее. Покупателям важно внимательно изучать условия ДДУ и уточнять, какие именно стандарты применяются, чтобы избежать неприятных сюрпризов&raquo;.</p>
+</blockquote>
+<h3><strong>Что это значит для покупателей</strong></h3>
+<p>Покупатели новостроек теперь столкнутся с более разнообразными вариантами отделки. Это может быть как плюсом (индивидуальный подход к каждому проекту), так и минусом (повышенные риски из-за размытости стандартов).</p>
+<h3><strong>Рекомендации от SmartAgent</strong></h3>
+<ul>
+<li>Перед подписанием ДДУ уточняйте стандарты отделки, указанные застройщиком.</li>
+<li>Обращайте внимание на соответствие предложенного уровня отделки рыночным ожиданиям.</li>
+</ul>
+<p>Законопроект нацелен на защиту интересов застройщиков, однако конечный эффект от его реализации будет зависеть от добросовестности участников рынка и уровня доверия между застройщиками и покупателями.</p>
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/stati/baza-sobstvennikov">База собственников</a> — 665 000+ объектов из 100+ источников</li>
+<li><a href="https://smartagent.ru/stati/-cheklist-dlya-rieltora-kak-oformit-zaklyuchenie-o-prigodnosti-zhilya-pri-ispolzovanii-materinskogo-kapitala">Чеклист для риэлтора: маткапитал и проверка жилья</a></li>
+<li><a href="https://smartagent.ru/stati/boli-pokupatelej-nedvizhimosti-i-kak-rieltoru-ix-zakryt-10-reshenij">Боли покупателей недвижимости</a> — как закрыть возражения</li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+      <enclosure url="https://smartagent.ru/images/page/1158/7ff661e6.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Ипотечный стандарт 2024]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/novyj-ipotechnyj-standart-chto-izmenitsya-dlya-zaemshhikov-v-2024-godu</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/novyj-ipotechnyj-standart-chto-izmenitsya-dlya-zaemshhikov-v-2024-godu</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[Новый ипотечный стандарт ЦБ: что изменится для заёмщиков и как это повлияет на рынок недвижимости. Обзор для риэлторов.]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<div>
+<div><span><span>С начала 2025 года в России вступил в силу новый ипотечный стандарт, который затронул все аспекты оформления ипотечных сделок. Это нововведение обещает сделать ипотеку более прозрачной и справедливой, исключив сомнительные схемы и финансовые риски для заемщиков. Но какие именно изменения произошли, и как они повлияют на рынок недвижимости?</span></span><span><span>Главные изменения в ипотечном кредитовании </span></span><span><span>Центробанк разработал новый стандарт для защиты прав заемщиков, ограничив использование хитрых схем, ранее активно применяемых банками и застройщиками.</span></span></div>
+<div><span><span></span></span></div>
+<div><span><span><figure><img src="https://smartagent.ru/images/page/1188/f87a1571.jpg" width="622" height="350"></figure></span></span></div>
+<div><span><span></span></span></div>
+<div><strong><span><span>Среди запрещенных методов:</span></span></strong></div>
+</div>
+<ul>
+<li>
+<div><strong><span><span>Ипотека с кешбэком.</span></span></strong><span><span><strong> </strong>Теперь первоначальный взнос можно оплатить только из собственных средств заемщика или материнским капиталом.</span></span></div>
+</li>
+<li>
+<div><strong><span><span>Траншевая ипотека.</span></span></strong><span><span> Этот инструмент, популярный на первичном рынке, больше не используется.</span></span></div>
+</li>
+<li>
+<div><strong><span><span>Сниженные ставки от застройщиков.</span></span></strong><span><span> Банкам запретили принимать компенсации от застройщиков за снижение ставок, что ранее приводило к искусственному завышению цен на жилье.</span></span></div>
+</li>
+<li>
+<div><strong><span><span>Аккредитивы.</span></span></strong><span><span> Их использование ограничено: средства должны зачисляться на эскроу-счета в течение пяти дней. Эти меры направлены на сокращение уровня закредитованности граждан и снижение финансовых рисков.</span></span></div>
+</li>
+</ul>
+<div>
+<div><strong><span><span>Как это влияет на заемщиков?</span></span></strong></div>
+</div>
+<ul>
+<li>
+<div><strong><span><span>Упрощение и прозрачность условий.</span></span></strong><span><span><strong> </strong>Новый стандарт требует от банков предоставлять всю информацию о кредите понятным языком без скрытых условий и мелкого шрифта. Это снижает вероятность ошибок при подписании договора и упрощает процесс для заемщиков.</span></span></div>
+</li>
+<li>
+<div><strong><span><span>Ограничение максимальной суммы и срока кредита.</span></span></strong><span><span><strong> </strong>Ипотеку теперь можно оформить на сумму не более 80% от справедливой стоимости жилья (за исключением случаев предоставления дополнительного обеспечения) и сроком не более 30 лет.</span></span></div>
+</li>
+<li>
+<div><strong><span><span>Снижение рисков для заемщиков.</span></span></strong><span><span><strong> </strong>Исключение программ с кешбэком и траншейной ипотеки минимизирует вероятность финансовых сложностей у клиентов.</span></span></div>
+</li>
+</ul>
+<div>
+<div><strong><span><span>Что говорят эксперты? </span></span></strong></div>
+<div><span><span></span></span></div>
+<div><span><span>Инна Солдатенкова, руководитель направления экспертной аналитики Банки.ру, считает, что новый стандарт повлияет не только на сомнительные схемы, но и на базовые условия оформления ипотеки. По ее словам, ограничение суммы кредита и упразднение программ кешбэка снизит риски, связанные с возвратом средств. Однако она отмечает, что эти меры могут усложнить оформление ипотеки для отдельных заемщиков.</span></span></div>
+<div><span><span></span></span></div>
+</div>
+<div>
+<div><span><span>Сергей Гордейко, главный эксперт &laquo;Русипотеки&raquo;, подчеркивает, что новые правила помогут рынку избавиться от излишней &laquo;хитрости&raquo;. По его мнению, такие инструменты, как кешбэк и траншевая ипотека, создавали искусственное ощущение выгоды, но увеличивали финансовую нагрузку на заемщиков.</span></span></div>
+</div>
+<div>
+<div><span><span></span></span></div>
+<div><span><span>Владислав Преображенский, исполнительный директор Клуба инвесторов, отметил, что застройщики лишились привычных способов стимулирования спроса. &laquo;После того как начал действовать ипотечный стандарт, у застройщиков практически не осталось инструментов стимулирования продаж&raquo;, &mdash; говорит эксперт.</span></span></div>
+<div><span><span></span></span></div>
+</div>
+<div>
+<div><strong><span><span>Что ждет ипотеку в будущем?</span></span></strong></div>
+<div><span><span></span></span></div>
+<div><span><span>&nbsp;</span></span><span><span>С 1 июля 2025 года вступят в силу дополнительные ограничения: банки не смогут снижать ставку по ипотеке за отдельную плату. В переходный период до 1 июля банки обязаны предоставлять заемщику расчет переплат по ипотеке как с учетом сниженной ставки, так и без нее. Также при досрочном погашении кредита банкам придется возвращать заемщикам неиспользованную часть вознаграждения за снижение ставки.</span></span></div>
+<div><span><span></span></span></div>
+</div>
+<div>
+<div><strong><span><span>Рынок ждет оздоровления </span></span></strong></div>
+<div><span><span></span></span></div>
+<div><span><span>Эксперты прогнозируют, что новый стандарт приведет к оздоровлению рынка недвижимости, сделает его прозрачнее и конкурентнее. Однако одновременно это может снизить объемы ипотечных сделок в ближайшие месяцы.Как отмечает Инна Солдатенкова, эффект от нововведений будет зависеть от добросовестности банков и их готовности работать в новых условиях.Новый стандарт ипотеки &mdash; это шаг к созданию прозрачных и надежных финансовых условий для россиян. Да, этот переход может быть непростым, но в перспективе он обещает стабилизацию ипотечного рынка и защиту интересов заемщиков.</span></span></div>
+</div>
+<div>
+<div><span><span></span></span></div>
+</div>
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/stati/baza-sobstvennikov">База собственников</a> — 665 000+ объектов из 100+ источников</li>
+<li><a href="https://smartagent.ru/stati/-cheklist-dlya-rieltora-kak-oformit-zaklyuchenie-o-prigodnosti-zhilya-pri-ispolzovanii-materinskogo-kapitala">Чеклист для риэлтора: маткапитал и ипотека</a></li>
+<li><a href="https://smartagent.ru/stati/crm-dlya-agentstva-nedvizhimosti">CRM для агентства недвижимости</a> — управление сделками</li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+      <enclosure url="https://smartagent.ru/images/page/1188/f87a1571.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title><![CDATA[Архив объектов для риэлтора]]></title>
+      <link>https://smartagent.ru/novosti/rynok-nedvizhimosti/zachem-agentu-nuzhen-arxiv-kak-naxodit-aktualnye-obekty-kotoryx-net-v-internete-i-poluchat-eksklyuziv</link>
+      <guid isPermaLink="true">https://smartagent.ru/novosti/rynok-nedvizhimosti/zachem-agentu-nuzhen-arxiv-kak-naxodit-aktualnye-obekty-kotoryx-net-v-internete-i-poluchat-eksklyuziv</guid>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 -0000</pubDate>
+      <description><![CDATA[Зачем агенту архив SmartAgent? Находите актуальные объекты, которых нет в интернете, и получайте эксклюзивные предложения.]]></description>
+      <category>format-article</category>
+      <content:encoded><![CDATA[
+<p><span>Согласитесь, выгодно работать с объектами, которые не примелькались всем на популярных&nbsp;площадках, а их собственникам ещё не позвонили десятки ваших коллег и обычных покупателей?</span></p>
+<p><span><strong><span>КАК НАЙТИ ТАКИЕ ОБЪЕКТЫ?</span></strong></span></p>
+<p><span>При настройке поиска выбираем меню <em><strong>"Архив" </strong></em>и с&nbsp;помощью фильтров настраиваем нужный поиск по необходимым параметрам.</span></p>
+<p><span>После ввода данных система выдаст вам объявления,&nbsp;удаленные из первоначальных источников и из раздела "Активные" нашей базы по причине их неактуальности, но сохраненные в архиве. Как известно, аренда - дело не всегда постоянное. Так что по статистике, большинство объектов из архива снова сдаются по несколько раз!</span></p>
+<p><span>Например, вам необходимо найти офис площадью от 40 м2 до 55 м2 в аренду в Москве в районе метро Арбатская. <em>В разделе "Активные" и "На проверке"</em> по данным параметрам в текущий момент времени <em>подобрано 17 объектов.</em> А <em><strong>в архиве</strong></em>, в котором собираются и систематизируются данные со всех площадок, давностью до 10 лет, <em><strong>найдено 12 объектов с контактами собственников</strong></em>. <span>Вполне возможно, что многие из них снова актуальны!</span></span> <span><em><strong>Грамотно работая с архивом, в</strong></em><em><strong>ы можете не просто подобрать то, что нужно вашему клиенту, но и поработать напрямую с собственниками, подобрав клиентов для них!</strong></em></span></p>
+<p><span><figure><img src="https://smartagent.ru/images/page/994/0d856c89.jpeg" width="600" height="317" alt=""></figure></span><span></span></p>
+<p><span><span><span>Кроме того вам доступна </span></span><strong><span><span>история размещения объекта на различных рекламных площадках<em>.</em></span></span></strong></span></p>
+<p><span><strong><span><span><em><figure><img src="https://smartagent.ru/images/page/994/f4bfcf51.jpeg" width="600" height="358" alt=""></figure></em></span></span></strong></span></p>
+<p><span><span><span>В подавляющем большинстве случаев объявления на первоисточниках неактивны или удалены. А, значит, информация и контактные данные из них недоступны обычным пользователям!</span></span></span></p>
+<p><span><strong><span><span><em><figure><img src="https://smartagent.ru/images/page/994/d87b7a98.jpeg" width="600" height="358" alt=""></figure></em></span></span></strong></span></p>
+<p align="center"><span><strong>В нашей базе вы можете найти актуальные объекты, которых нет в других источниках, и о которых не знают ваши конкуренты!</strong></span></p>
+<p align="center"><span><strong>ЖЕЛАЕМ ВАМ УСПЕШНЫХ СДЕЛОК!</strong></span></p>
+
+<h2>Читайте также</h2>
+<ul>
+<li><a href="https://smartagent.ru/stati/baza-sobstvennikov">База собственников</a> — 665 000+ объектов из 100+ источников с прямыми контактами</li>
+<li><a href="https://smartagent.ru/stati/epoxa-avito-zakanchivaetsya-gde-teper-rieltoru-brat-obekty-i-zayavki">Где риэлтору брать объекты помимо Авито</a></li>
+<li><a href="https://smartagent.ru/stati/kak-maksimalno-bystro-najti-pryamoj-telefon-sobstvennika">Как быстро найти прямой телефон собственника</a></li>
+</ul>
+<p>
+<a href="https://smartagent.ru/?type=auth">Попробовать SmartAgent бесплатно</a>
+</p>
+<p><em>3 дня бесплатно, без привязки карты</em></p>
+]]></content:encoded>
+      <enclosure url="https://smartagent.ru/images/page/994/0d856c89.jpeg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
